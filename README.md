@@ -1,2 +1,3 @@
 # hello-world
-Repositorio de prueba de inicio
+Este es un repositorio de prueba del tutorial de GitHub
+
