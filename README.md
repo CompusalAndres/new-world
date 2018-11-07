@@ -8,3 +8,5 @@ Este es un repositorio de prueba del tutorial de GitHub
 - Otra desde local desde la rama nuevos-cambios.
 
 - Otra desde local. (En Master)
+
+- Este está hecho desde Un PC Remoto
